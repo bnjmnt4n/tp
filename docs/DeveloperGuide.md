@@ -150,7 +150,7 @@ How the parsing works:
 ### Model component <a name="model"></a>
 **API** : [`Model.java`](https://github.com/AY2122S1-CS2103T-F11-4/tp/blob/master/src/main/java/socialite/model/Model.java)
 
-<img src="images/ModelClassDiagram.png" width="600" />
+<img src="images/ModelClassDiagram.png" width="500" />
 
 
 The `Model` component,
@@ -223,6 +223,8 @@ Should `KEYWORDS` be improperly formatted or empty, a generic CommandResult with
 Below is the sequence diagram for an execution of `find KEYWORDS`, assuming `KEYWORDS` are a valid query string
 
 ![FindSequenceDiagram](images/FindSequenceDiagram.png)
+
+<div style="page-break-after: always;"></div>
 
 ### Picture Command <a name="picture_command"></a>
 
