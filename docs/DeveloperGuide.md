@@ -303,6 +303,8 @@ _Core Functionalities_
 
 <br/>
 
+<div style="page-break-after: always;"></div>
+
 _Guide for New Users_
 
 |Priority| As a / an …​                              | I want to …​                                                                    | So that I can…​                                                                                      |
@@ -792,6 +794,7 @@ _Customization of Contacts_
 <br/>
 
 
+<div style="page-break-after: always;"></div>
 
 ### Non-Functional Requirements <a name="nfr"></a>
 
@@ -806,6 +809,8 @@ _Customization of Contacts_
 * **Mainstream OS**: Windows, Linux, Unix, OS-X
 * **Private contact detail**: A contact detail that is not meant to be shared with others
 * **Social Media**:  Various communication platforms such as Instagram, Facebook, Twitter, TikTok, Telegram
+
+<div style="page-break-after: always;"></div>
 
 --------------------------------------------------------------------------------------------------------------------
 
