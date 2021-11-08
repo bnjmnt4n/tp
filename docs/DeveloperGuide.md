@@ -341,6 +341,8 @@ _Ease of Accessibility_
 
 <br/>
 
+<div style="page-break-after: always;"></div>
+
 _Customization of Contacts_
 
 |Priority| As a / an …​                              | I want to …​                                                                    | So that I can…​                                                                                      |
