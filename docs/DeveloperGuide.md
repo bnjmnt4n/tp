@@ -236,6 +236,8 @@ Represented below is the sequence diagram when `picture INDEX` is executed. For 
 
 Note that the picture command depends on the MainWindow in the UI package as it retrieves the file from a file chooser.
 
+<div style="page-break-after: always;"></div>
+
 ### Command History <a name="command_history"></a>
 
 Command history allows users to navigate through commands that they have entered previously by pressing `UP/DOWN` key in the command box. It resembles the behavior of a macOS or Windows terminal. As a result, users can simply make slight edits to the previous command to rectify a typo.
@@ -278,6 +280,8 @@ Represented below is the sequence diagram on how command history is saved when a
 **Value proposition**: 
 
 Our product serves as an integrated dashboard for a user to retrieve the social media handles and account information of his/her contacts. This makes it seamless for the user to interact with his/her contacts instead of having to access each social media account that the contact owns.
+
+<div style="page-break-after: always;"></div>
 
 ### User stories <a name="user-stories"></a>
 
